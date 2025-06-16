@@ -1,0 +1,20 @@
+# Ignore environment variables
+
+# Ignore .env in client and server
+client/.env
+server/.env
+
+
+# Node modules (if you're using Node.js)
+node_modules/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Optional: build/output folders
+dist/
+build/
